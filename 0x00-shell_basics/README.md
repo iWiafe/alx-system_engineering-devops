@@ -1,2 +1,2 @@
 #!/bin/bash
-#Delete the file betty.
+#Write a script that changes the working directory to the previous one.
