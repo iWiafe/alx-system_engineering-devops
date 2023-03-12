@@ -1,2 +1,2 @@
 #!/bin/bash
-# Script that adds permission to only other users
+# Scripts that sets the mode of a file hello.
