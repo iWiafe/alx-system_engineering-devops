@@ -1,2 +1,2 @@
 #!/bin/bash
-# Scripts that sets the mode of a file hello.
+# Write a script that sets the mode of the file hello the same as olleh’s mode.
