@@ -1,2 +1,2 @@
 #!/bin/bash
-# Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+# Script that adds permission to only other users
