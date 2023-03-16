@@ -1,2 +1,2 @@
 #!/bin/bash
-# Display all lines of the file /etc/ssh/sshd_config starting with a letter. Include capital letters as well
+# Write a command that finds all empty files and directories in the current directory and all sub-directories.
