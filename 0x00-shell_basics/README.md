@@ -1,2 +1,2 @@
 #!/bin/bash
-#Create a symbolic link to /bin/ls, named __ls__
+# Create a script that switches the current user to the user betty.
